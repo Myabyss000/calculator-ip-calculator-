@@ -1,0 +1,21 @@
+# Scientific Calculator Requirements
+# This calculator uses only Python standard library modules
+
+# Core Python modules used:
+# - tkinter (GUI interface)
+# - math (mathematical functions)
+# - cmath (complex number operations)
+# - decimal (high precision arithmetic)
+# - re (regular expressions)
+# - sys, os (system operations)
+
+# No external packages required!
+# All functionality is implemented using Python's built-in libraries.
+
+# To run the calculator:
+# python main.py
+
+# Optional: For better GUI appearance on some systems
+# tkinter should be installed (usually comes with Python)
+
+# Python version requirement: 3.7+

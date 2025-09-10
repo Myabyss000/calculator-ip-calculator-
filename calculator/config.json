@@ -1,0 +1,36 @@
+{
+    "calculator_settings": {
+        "default_angle_mode": "radians",
+        "decimal_precision": 10,
+        "history_limit": 100,
+        "gui_theme": "dark",
+        "window_size": {
+            "width": 800,
+            "height": 700
+        },
+        "colors": {
+            "background": "#2c3e50",
+            "display": "#34495e",
+            "number_buttons": "#34495e",
+            "operator_buttons": "#e67e22",
+            "function_buttons": "#3498db",
+            "special_buttons": "#9b59b6",
+            "clear_buttons": "#e74c3c"
+        }
+    },
+    "constants": {
+        "custom_constants": {
+            "c": 299792458,
+            "g": 9.80665,
+            "h": 6.62607015e-34,
+            "avogadro": 6.02214076e23
+        }
+    },
+    "features": {
+        "enable_complex_numbers": true,
+        "enable_memory_operations": true,
+        "enable_history": true,
+        "enable_angle_conversion": true,
+        "auto_save_history": false
+    }
+}
